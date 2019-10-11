@@ -1,0 +1,8 @@
+{
+  "name": "bd-sup-ts",
+  "displayName": "BD_SUP_TS",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/node": "^12.7.8"
+  }
+}
